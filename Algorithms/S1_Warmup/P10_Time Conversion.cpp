@@ -2,9 +2,6 @@
 
 using namespace std;
 
-/*
- * Complete the timeConversion function below.
- */
 string timeConversion(string s) {
     string str = "";
     stringstream hh;
