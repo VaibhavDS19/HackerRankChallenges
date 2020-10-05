@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f8c1c3d-0811-46ee-9ee1-f1381864bfec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="j390oqyk" />
+  </component>
+  <component name="ProjectId" id="1iK8z0aU8lKqV1elwO272nEpcUp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/HackerRank/ProjectEuler/src/P001-050/P01-10/P1.rs" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/HackerRank/ProjectEuler/src/P001_P050/a.rs" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Expand ProjectEuler" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="expand --bin ProjectEuler --color=always --theme=GitHub --tests" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Expand ProjectEuler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f8c1c3d-0811-46ee-9ee1-f1381864bfec" name="Default Changelist" comment="" />
+      <created>1601645181367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601645181367</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="199" width="600" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601645222407">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="414" y="199" width="600" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1294.741@72.27.1294.741" timestamp="1601645222407" />
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601658603445">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1601658603445" />
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1601649358781">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1601649358781" />
+    <state width="1248" height="172" key="GridCell.Tab.0.center" timestamp="1601649358779">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1601649358779" />
+    <state width="1248" height="172" key="GridCell.Tab.0.left" timestamp="1601649358778">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1601649358778" />
+    <state width="1248" height="172" key="GridCell.Tab.0.right" timestamp="1601649358780">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1601649358780" />
+  </component>
+</project>

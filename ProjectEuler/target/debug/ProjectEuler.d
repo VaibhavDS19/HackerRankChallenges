@@ -1,0 +1,1 @@
+/home/vaibhav/Desktop/Learning\ Materials/Hackathon\ Coding\ Challenges/HackerRank/ProjectEuler/target/debug/ProjectEuler: /home/vaibhav/Desktop/Learning\ Materials/Hackathon\ Coding\ Challenges/HackerRank/ProjectEuler/src/main.rs
